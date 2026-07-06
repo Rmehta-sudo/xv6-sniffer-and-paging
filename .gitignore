@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.d
+*.asm
+
+# Compiled binaries
+A/mkfs/mkfs
+B/bin/cshark
+C/bakery
+
+# IDE
+.vscode/
+
+# Output files
+B/outputs.txt
